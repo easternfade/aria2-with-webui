@@ -1,11 +1,5 @@
-# 此项目无限期停止维护。NO LONGER SUPPORT。
+# ARIA2 WITH WEB UI
 
-Pleases Fork this project and modify for yourself.
-
----
-
-Aria2 with webui
----
 Only 29Mb.  
 Edit config file out of the image.  
 Move file completed to another folder.  
