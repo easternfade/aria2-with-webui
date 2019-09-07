@@ -1,6 +1,4 @@
-FROM alpine:edge
-
-MAINTAINER xujinkai <jack777@xujinkai.net>
+FROM node:12-alpine
 
 RUN apk update && \
 	apk add --no-cache --update bash && \
